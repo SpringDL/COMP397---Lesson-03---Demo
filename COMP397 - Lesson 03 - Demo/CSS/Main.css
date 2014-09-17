@@ -14,3 +14,7 @@ h1 {
 p {
     line-height: 18px;
 }
+
+#boilerplate-header {
+    display:none;
+}
